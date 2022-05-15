@@ -1,5 +1,5 @@
 import React from 'react';
-import {View, StyleSheet, Text, Button, Image, ImageBackground, TouchableOpacity} from "react-native";
+import {View, StyleSheet, Text, Image, ImageBackground, TouchableOpacity} from "react-native";
 const logInButtonPress = ()=>console.log("Log In Account!")
 const signUpButtonPress = ()=>console.log("Sign Up Account!")
 
