@@ -5,5 +5,6 @@ export default function App() {
   return (
     <LoginScreen />
     // test comment
+    // test comment2
   );
 }
